@@ -1,0 +1,7 @@
+{
+  "name": "enviroment-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
